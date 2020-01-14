@@ -9,7 +9,7 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .target(name: "Highlightr", path: ".", sources: ["Highlightr"]),
+        .target(name: "Highlightr", path: "Pod/Classes"),
         
     ]
 )
