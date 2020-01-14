@@ -9,7 +9,7 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .target(name: "Highlightr", dependencies: [], path: "Highlightr"),
+        .target(name: "Highlightr", dependencies: [], path: "."),
         
     ]
 )
